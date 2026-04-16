@@ -1,0 +1,59 @@
+apple 10.5
+banana 8.2
+orange 9.3
+grape 15.0
+kiwi 18.5
+pineapple 35.0
+mango 40.0
+pear 11.2
+peach 12.8
+plum 9.9
+
+milk 25.0
+cheese 60.0
+butter 45.0
+yogurt 20.0
+cream 30.0
+
+bread 18.0
+baguette 22.0
+croissant 15.0
+bun 10.0
+
+chicken 85.0
+beef 120.0
+pork 95.0
+sausage 70.0
+ham 65.0
+
+rice 28.0
+pasta 24.0
+buckwheat 30.0
+oatmeal 20.0
+
+egg 3.5
+oil 55.0
+sugar 26.0
+salt 12.0
+flour 22.0
+
+cola 30.0
+juice 35.0
+water 12.0
+tea 25.0
+coffee 80.0
+
+chips 28.0
+chocolate 32.0
+cookies 27.0
+candy 20.0
+
+ketchup 18.0
+mayonnaise 22.0
+mustard 15.0
+sauce 25.0
+
+icecream 40.0
+pizza 120.0
+burger 90.0
+fries 50.0
